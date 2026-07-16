@@ -1,1 +1,1 @@
-docker build . -f ./.nixpacks/Dockerfile -t 6310604b-acb8-4861-8c9e-344eb2356bcd --build-arg CI=true --build-arg NIXPACKS_METADATA=node --build-arg NIXPACKS_NODE_VERSION=22 --build-arg NIXPACKS_SPA_OUTPUT_DIR=dist --build-arg NODE_ENV=production --build-arg NPM_CONFIG_PRODUCTION=false
+docker build . -f ./.nixpacks/Dockerfile -t 3682f874-11e7-48b5-bc99-c426c565c13a --build-arg CI=true --build-arg NIXPACKS_METADATA=node --build-arg NIXPACKS_NODE_VERSION=22 --build-arg NIXPACKS_SPA_OUTPUT_DIR=dist --build-arg NODE_ENV=production --build-arg NPM_CONFIG_PRODUCTION=false
